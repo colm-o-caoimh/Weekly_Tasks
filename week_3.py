@@ -1,3 +1,6 @@
+# Colm O Caoimh
+# Reverse order slicing
+
 # Ask user to enter a sentence
 phrase = input("Please enter a sentence: ")
 
@@ -7,3 +10,4 @@ reverse = phrase[::-2]
 
 # print result 
 print(reverse)
+
