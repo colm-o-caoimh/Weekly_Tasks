@@ -1,17 +1,29 @@
 # Colm O'Caoimh
 # Write a program which outputs whether today is a weekday or not
 
+# import datetime module.
 import datetime
-
-#days = [0, 1, 2, 3, 4, 5, 6] 
-
-
+ 
+# Create variable 'now' to store current time and date.
 now = datetime.datetime.now()
-today = now.weekday()
-if 0 >= today >= 4:
-    print('Unfortunately today is a weekday. Back to work!')
-else:
-    print("It's the weekend. Hooray!!")
 
-print(now.time())
-    
+# Create variable 'today' to store current weekday.
+today = now.weekday()
+
+# Create dictionary assigning .weekday() method int to corresponding day in English.
+days = {
+    0: 'Monday',
+    1: 'Tuesday',
+    2: 'Wednesday',
+    3: 'Thursday',
+    4: 'Friday',
+    5: 'Saturday',
+    6: 'Sunday'
+}
+
+# Write if-else statement to separate weekdays from weekend 
+if 0 <= today <= 4:
+    print("Today is " + days[today] + ", a weekday unfortunately. Back to work!")
+else:
+    print("It's " + days[today] + ", it's the weekend. Hooray!!")
+
