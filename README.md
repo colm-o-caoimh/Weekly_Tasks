@@ -1,5 +1,6 @@
 # Weekly_Tasks
-Weekly homework for Programming and Scripting module
+
+This repository contains my weekly homework for the Programming and Scripting module. I give an account of the process I went through in solving the problem and writing the code. 
 
 (Week 1 Task: Set up Github account. Created first repository)
 
