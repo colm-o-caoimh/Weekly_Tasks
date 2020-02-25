@@ -10,13 +10,10 @@ x = float(input('Please enter a positive number: '))
 def sqrt(x):
     # Initialize variable count to 0. 
     count = 0
-    # While loop iterates through count values,
-    # incrementing by 0.01 each iteration
+    # While loop iterates through count values, incrementing by 0.01 each iteration
     while x > count:
-        # Round count down to 2 decimal places as this is an approximation.
-        # Set to variable a
+        # Round count down to 2 decimal places as this is an approximation. Set to variable a.
         a = round(count, 2)
-        # Set variable b to count ** 2 
         b = round(a ** 2, 1)
         # If statement breaks when count ** 2 = user input
         if b == round(x, 1):
