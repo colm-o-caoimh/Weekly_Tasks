@@ -4,13 +4,13 @@
 # The program should take the filename from 
 # an argument on the command line.
 
-#(first attempt)
- 
-# Prompt user to input filename on command line
-filename = input('Enter filename, path or directory you wish to submit: ')
+
+# Import sys module to enable program to take file name/path
+# from argument on command line
+import sys
 
 # Use with statement to open and close file
-with open(filename, 'r') as f:
-    x = f.read()
-    # Use count method to output number of e's
-    print(x.count('e'))
+# Count e's using count method
+with open(sys.argv[1], 'r') as f:
+    readfile = f.read()
+    print(readfile.count('e'))
