@@ -35,4 +35,12 @@ Week 6 Task:
 * I found Newton’s method online after completing the program. While the mathematical formula itself is quite easy to understand, the coded function contains a concept which I would like to give more time to understanding (‘precision’ variable). 
 * I benefitted a lot from this week’s exercise, particularly as I managed to overcome the challenge which had stumped me for quite a while. The perseverance paid off. It also gave me an insight into the difficulty around writing an efficient function for a seemingly simple problem. Coupled with the information in the lectures, I have begun to realise how this can be a massive area of importance in the world of programming. It also solidified my understanding of the difference between a function and an algorithm, which was nicely explained by Ian in the videos. 
 
+Week 7 task:
+* Write a program that reads in a text file and outputs the number of e's it contains. The program should take the filename from an argument on the command line.
+* I was unsure of the precise meaning of the task instruction. I did not realise that arguments could be taken from the command line. I posted a question to the class forum on Moodle and discussed it with classmates.
+* My initial attempt involved a prompt for the user to input file name on the command line but this was not exactly what was demanded by the task.
+* Following a little more research I discovered that through the sys module, arguments from the command line could be passed through the program using the sys.argv list. I used stackoverflow for this (https://stackoverflow.com/questions/7439145/i-want-to-read-in-a-file-from-the-command-line-in-python/7439162).
+* This produced the desired result for this week’s task
+
+
 

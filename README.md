@@ -41,6 +41,12 @@ Week 7 task:
 * My initial attempt involved a prompt for the user to input file name on the command line but this was not exactly what was demanded by the task.
 * Following a little more research I discovered that through the sys module, arguments from the command line could be passed through the program using the sys.argv list. I used stackoverflow for this (https://stackoverflow.com/questions/7439145/i-want-to-read-in-a-file-from-the-command-line-in-python/7439162).
 * This produced the desired result for this week’s task
+	
+Week 8 task:
+* Write a program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
+* This week’s task was relatively straight forward for me as it mirrored the video lecture almost exactly. In addition, I have been following courses on Datacamp which have served as an introduction to Numpy and Matplotlib. 
+* I tinkered a bit with the third parameter in the np.arange() function in order to get a curved line in the plot. This was purely for aesthetic purposes as it is more appealing to the eye. 
+* This exercise allowed me to become more familiar with using ipython on the command line. I can see how convenient it might be for this type of work. The %logstart command is something I made use of here and will be using in future for similar projects.
 
 
 
