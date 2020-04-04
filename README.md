@@ -30,7 +30,7 @@
 ### Write a program that outputs whether or not today is a weekday.
 * My first instinct was to create a list/dictionary containing the days of the week, loop through that list, and break when the `if` condition was satisfied. I eventually managed to get this to work following initial difficulties (I was comparing each dictionary element with the today variable which prevented distinction between weekdays and weekend)
 * As a result of the difficulty I had with the `for` loop, I managed to simplify the code to its current version – a simple if..else statement. 
-* I needed to work out how to check if an `int` variable was between two `int` values. For this I used [stackoverflow] (https://stackoverflow.com/questions/13628791/determine-whether-integer-is-between-two-other-integers)
+* I needed to work out how to check if an `int` variable was between two `int` values. For this I used [stackoverflow](https://stackoverflow.com/questions/13628791/determine-whether-integer-is-between-two-other-integers)
 
 ## Week 6 Task:
 
@@ -48,7 +48,7 @@
 ### Write a program that reads in a text file and outputs the number of e's it contains. The program should take the filename from an argument on the command line.
 * I was unsure of the precise meaning of the task instruction. I did not realise that arguments could be taken from the command line. I posted a question to the class forum on Moodle and discussed it with classmates.
 * My initial attempt involved a prompt for the user to input file name on the command line but this was not exactly what was demanded by the task.
-* Following a little more research I discovered that through the sys module, arguments from the command line could be passed through the program using the `sys.argv` list. I used stackoverflow for this (https://stackoverflow.com/questions/7439145/i-want-to-read-in-a-file-from-the-command-line-in-python/7439162).
+* Following a little more research I discovered that through the sys module, arguments from the command line could be passed through the program using the `sys.argv` list. For this, I used [stackoverflow](https://stackoverflow.com/questions/7439145/i-want-to-read-in-a-file-from-the-command-line-in-python/7439162).
 * This produced the desired result for this week’s task
 	
 ## Week 8 task:
