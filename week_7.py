@@ -15,5 +15,5 @@ with open(sys.argv[1], 'r') as f:
     print(readfile.count('e'))
 
 # References
-# VanderPlas, Jake; A Whirlwind Tour of Python (Chapter 1), https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
+# VanderPlas, Jake; A Whirlwind Tour of Python (Chapter 1); https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
 # stackoverflow.com: https://stackoverflow.com/questions/7439145/i-want-to-read-in-a-file-from-the-command-line-in-python/7439162
