@@ -11,5 +11,5 @@ reverse = phrase[::-2]
 print(reverse)
 
 # References
-# stackoverflow.com https://stackoverflow.com/questions/43905517/how-to-do-reverse-slicing-in-python
+# stackoverflow.com; https://stackoverflow.com/questions/43905517/how-to-do-reverse-slicing-in-python
 # VanderPlas, Jake; A Whirlwind Tour of Python (Chapter 1); https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
