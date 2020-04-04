@@ -17,7 +17,7 @@
 
 ### Write a program that takes asks a user to input a string and outputs every second letter in reverse order. 
 * I had difficulty slicing the string correctly. Using the ‘start, stop, step’ logic to slicing using the indexing syntax (square brackets) learned on Codecademy, my code was as follows: `reverse = phrase[-1:0:-2]`. This will always exclude the element at index 0.
-* Following some troubleshooting online [stackoverflow](https://stackoverflow.com/questions/43905517/how-to-do-reverse-slicing-in-python) I discovered that `phrase[::-2]` solved my issue
+* Following some troubleshooting in [stackoverflow](https://stackoverflow.com/questions/43905517/how-to-do-reverse-slicing-in-python) I discovered that `phrase[::-2]` solved my issue
 
 ## Week 4 Task:
 
