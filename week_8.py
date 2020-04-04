@@ -26,4 +26,4 @@ plt.plot(x, h)
 plt.show()
 
 # References
-# https://www.datacamp.com/
+# datacamp.com https://www.datacamp.com/
