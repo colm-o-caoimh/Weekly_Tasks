@@ -28,6 +28,6 @@ else:
     print("It's " + days[today] + ", it's the weekend. Hooray!!")
 
 # References
-# stackoverflow.com; https://stackoverflow.com/questions/13628791/determine-whether-integer-is-between-two-other-integers
+# stackoverflow.com: https://stackoverflow.com/questions/13628791/determine-whether-integer-is-between-two-other-integers
 # VanderPlas, Jake; A Whirlwind Tour of Python (Chapter 1), https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
 
