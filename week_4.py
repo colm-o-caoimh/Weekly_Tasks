@@ -1,5 +1,5 @@
 # Colm O'Caoimh
-# If input is even, divide by 2. If odd, multiply by 3 and add 1
+# If input is even, divide by 2. If odd multiply by 3 and add 1
 
 # Ask user to input any positive integer
 x = int(input("Enter any positive integer: "))
