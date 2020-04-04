@@ -30,7 +30,7 @@
 ### Write a program that outputs whether or not today is a weekday.
 * My first instinct was to create a list/dictionary containing the days of the week, loop through that list, and break when the `if` condition was satisfied. I eventually managed to get this to work following initial difficulties (I was comparing each dictionary element with the today variable which prevented distinction between weekdays and weekend)
 * As a result of the difficulty I had with the `for` loop, I managed to simplify the code to its current version – a simple if..else statement. 
-* I needed to work out how to check if an `int` variable was between two `int` values. For this I used stackoverlow (https://stackoverflow.com/questions/13628791/determine-whether-integer-is-between-two-other-integers)
+* I needed to work out how to check if an `int` variable was between two `int` values. For this I used [stackoverflow] (https://stackoverflow.com/questions/13628791/determine-whether-integer-is-between-two-other-integers)
 
 ## Week 6 Task:
 
