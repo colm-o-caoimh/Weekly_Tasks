@@ -5,6 +5,7 @@
 ## Week 1 Task: 
 
 ### Set up Github account and create first repository.
+* Account set up and first repository created.
 
 ## Week 2 Task: 
 
