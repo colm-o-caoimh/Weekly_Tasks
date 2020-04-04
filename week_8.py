@@ -1,8 +1,7 @@
  # Colm O'Caoimh
  
  # Write a program that displays a plot of the functions 
- # f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] 
- # on the one set of axes. 
+ # f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes. 
 
 # Import relevant modules, numpy and matplotlib.pyplot
 import numpy as np
@@ -25,3 +24,6 @@ plt.plot(x, h)
 
 # Show plot
 plt.show()
+
+# References
+# https://www.datacamp.com/

@@ -17,4 +17,5 @@ while x > 1:
     print(x)
     y.append(int(x))
 
+# Print list containing output values
 print(y)

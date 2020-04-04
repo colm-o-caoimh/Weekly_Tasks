@@ -25,3 +25,6 @@ def sqrt(x):
 # Function call
 sqrt(x)
 
+# References
+# Algorithm written by me (process detailed in readme.md)
+# VanderPlas, Jake; A Whirlwind Tour of Python (Chapter 1), https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
