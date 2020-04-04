@@ -10,7 +10,7 @@
 ## Week 2 Task: 
 
 ### Write a program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared. 
-* My code varies slightly from the example given in Ian McLoughlin’s tutorial: I convert user input from string to int on the second line of code using the `int()` function. Ian’s code converted user input to float upon input entry.
+* My code varies slightly from the example given in Ian McLoughlin’s tutorial: I convert user input from `str` to `int` on the second line of code using the `int()` function. Ian’s code converted user input to float upon input entry.
 * I used the `round()` function to round to two decimal places. I got this idea from a classmate’s suggestion on moodle discussion forum.
 
 ## Week 3 Task:
