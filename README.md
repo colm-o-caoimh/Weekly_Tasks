@@ -2,7 +2,9 @@
 
 **This repository contains my weekly homework for the Programming and Scripting module. I give an account of the process I went through each week in solving the problem and writing the code.** 
 
-(Week 1 Task: Set up Github account. Created first repository)
+## Week 1 Task: 
+
+### Set up Github account and create first repository.
 
 ## Week 2 Task: 
 
