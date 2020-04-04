@@ -12,5 +12,5 @@ BMI = int(user_weight) / (int(user_height) / 100) ** 2
 print('Your BMI is: ' + str(round(BMI, 2)))
 
 # References
-# Moodle module class forum: https://learnonline.gmit.ie/mod/forum/discuss.php?d=6133
+# Moodle module class forum; https://learnonline.gmit.ie/mod/forum/discuss.php?d=6133
 
